@@ -20,6 +20,12 @@ The details about SHuBERT+ByT5, the training, and experiments are described in t
 The analysis scripts and results are in [analysis](analysis/).
 
 ----
+## Publications
+
+Our preprint is accepted to the [CVPR 2026 GenSign, Generative AI for Sign Language Workshop](https://genai4sl.github.io/)!
+Here are the [non-archival proceeding](https://genai4sl.github.io/assets/pdfs/05_Targeted_Linguistic_Analysis.pdf) and the [poster](https://github.com/serpilkarabuklu/SL-Models-Analysis/blob/main/publications/Karabuklu_etal_CVPR%20Workshop%20ONLY%20Poster%20GenSign_final.pdf)
+
+----
 ## Citing our work
 If you find our work useful in your research, please consider citing:
 
